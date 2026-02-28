@@ -1,0 +1,28 @@
+# Python
+.venv
+__pycache__
+*.pyc
+*.pyo
+.pytest_cache
+.mypy_cache
+
+# Node
+node_modules
+
+# Env & secrets
+.env
+.env.local
+*.pem
+
+# Local DB
+qauto.db
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea
+.vscode
+*.swp
+*.swo

@@ -1,0 +1,16 @@
+Economic Indicator,Threshold / Trigger,What It Means,AI Procurement Action,Source API
+Oil Price > USD 85/bbl,Brent crude sustained 4+ weeks,Qatar govt flush - fleet budgets open,Alert: Prepare government fleet spec stock,EIA API - eia.gov/opendata
+Oil Price < USD 55/bbl,Brent drops below $55,Government budget tightens - fleet cuts,Reduce commercial/fleet procurement,EIA API - eia.gov/opendata
+Interest Rate > 5.5%,QCB rate above 5.5%,Finance buyers hesitate - cash buyers up,Stock cash-buyer preferred models (premium),Qatar Central Bank - qcb.gov.qa
+Interest Rate < 4.0%,QCB rate below 4%,Finance becomes attractive - demand up,Increase mid-range stock for finance buyers,Qatar Central Bank - qcb.gov.qa
+Consumer Confidence > 75,Index above 75/100,High buying intent - peak market,Procure aggressively across all segments,QCB / World Bank
+Consumer Confidence < 50,Index drops below 50,Low sentiment - buyers postponing,Hold procurement - clear existing stock,QCB / World Bank
+Expat Pop < 2.7M,Population dips (summer),Expat exodus - used car flood coming,Pause procurement Jun-Aug / monitor used mkt,PSA Qatar - psa.gov.qa
+"New Car Reg > 5,000/month",Monthly registrations spike,Market hot - dealer stock running low,Emergency procurement trigger,Qatar Open Data API
+"New Car Reg < 2,500/month",Monthly registrations drop,Market slow - oversupply risk,Halt procurement until market absorbs stock,Qatar Open Data API
+GDP Growth > 4%,Annual GDP above 4%,Strong economy - discretionary spend up,Increase luxury segment (Lexus) procurement,World Bank API / IMF API
+GDP Growth < 0%,GDP contraction,Recession signals - demand will drop,Significantly reduce all procurement,World Bank API / IMF API
+Govt Budget Q4 (Oct-Dec),Government fiscal year end,Fleet procurement season open,Stock govt-spec vehicles by September,QCB Annual Report
+Ramadan Month,28 days before Eid,Purchase intent high - showroom visits low,Stock 3 weeks before - prepare finance offers,Qatar Events Calendar
+Post-Eid Week,First week after Eid Al Fitr,Buying surge - bonus money deployed,Maximum stock ready - all segments,Qatar Events Calendar
+FIFA/Major Event Year,Large-scale national event,+34.7% seen in 2022 FIFA year,Procure 25-30% above normal annual target,Market Reports Historical

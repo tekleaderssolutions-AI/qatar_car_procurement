@@ -1,0 +1,101 @@
+brand,model,keyword_type,avg_sentiment,avg_mentions,max_mentions,buy_more_wks,service_wks
+Nissan,Patrol,pickup_search,0.61,748.523,2034,191,0
+Toyota,Land Cruiser,model_mention,0.689,742.488,1892,336,0
+Toyota,Fortuner,model_mention,0.696,684.549,1858,347,0
+Toyota,Prado,model_mention,0.701,656.68,1804,372,0
+Toyota,Hilux,pickup_search,0.699,601.09,1678,360,0
+Nissan,Pathfinder,model_mention,0.615,589.871,1587,188,0
+Toyota,Camry,model_mention,0.693,583.98,1599,348,0
+Toyota,Corolla,model_mention,0.698,567.875,1529,352,0
+Nissan,X-Trail,model_mention,0.607,513.358,1440,189,0
+Nissan,Altima,model_mention,0.618,484.062,1307,200,0
+Toyota,RAV4,model_mention,0.692,474.54,1274,372,0
+Nissan,Kicks,model_mention,0.607,445.618,1158,164,0
+Toyota,Yaris,model_mention,0.703,432.45,1139,360,0
+Land Rover,Range Rover,luxury_search,0.711,422.431,1120,406,0
+Lexus,LX,luxury_search,0.748,420.41,1117,456,0
+Toyota,Innova,model_mention,0.7,411.221,1059,361,0
+Land Rover,Defender,model_mention,0.707,383.18,1024,391,0
+Nissan,Maxima,model_mention,0.604,382.74,1054,168,0
+BMW,X7,model_mention,0.733,372.859,1045,434,0
+BMW,X5,model_mention,0.731,365.179,955,399,0
+Lexus,GX,luxury_search,0.753,364.521,968,437,0
+Land Rover,Range Rover Sport,luxury_search,0.706,357.774,962,395,0
+Nissan,Sunny,model_mention,0.608,354.49,892,178,0
+BMW,5 Series,model_mention,0.741,348.438,892,448,0
+Lexus,RX,model_mention,0.756,341.416,926,473,0
+BMW,7 Series,luxury_search,0.728,327.839,904,428,0
+Mitsubishi,Pajero,model_mention,0.554,322.67,893,103,0
+Toyota,Urban Cruiser,model_mention,0.698,317.256,862,373,0
+Lexus,ES,model_mention,0.753,306.777,817,447,0
+BMW,X3,model_mention,0.723,297.747,795,416,0
+BMW,3 Series,model_mention,0.734,295.933,773,434,0
+Land Rover,Discovery,model_mention,0.701,292.821,793,367,0
+Ford,Explorer,model_mention,0.599,288.925,779,137,0
+Land Rover,Range Rover Velar,model_mention,0.708,286.997,752,396,0
+Hyundai,Tucson,model_mention,0.601,286.618,700,163,0
+Nissan,Magnite,model_mention,0.613,284.292,723,186,0
+BMW,iX,future_demand,0.734,282.543,720,434,0
+Hyundai,Creta,model_mention,0.6,277.221,706,160,0
+Lexus,NX,model_mention,0.76,276.642,723,459,0
+BMW,i7,future_demand,0.732,275.833,719,426,0
+Kia,Sorento,model_mention,0.584,274.824,743,140,0
+Ford,Mustang,model_mention,0.594,266.174,705,144,0
+Mitsubishi,Pajero Sport,model_mention,0.564,262.545,716,101,0
+Kia,Sportage,model_mention,0.582,261.291,677,138,0
+Land Rover,Range Rover Evoque,model_mention,0.703,261.032,687,382,0
+BMW,i4,future_demand,0.738,252.892,655,445,0
+Ford,Ranger,pickup_search,0.582,243.958,680,125,0
+Lexus,LS,luxury_search,0.751,242.941,667,445,0
+Land Rover,Discovery Sport,model_mention,0.701,241.004,640,362,0
+BMW,X1,model_mention,0.73,233.744,626,399,0
+Ford,Endeavour,model_mention,0.592,233.17,639,155,0
+Hyundai,Kona EV,future_demand,0.596,232.094,616,154,0
+Mitsubishi,L200,pickup_search,0.551,228.715,613,96,0
+Kia,Carnival,model_mention,0.584,225.004,587,134,0
+Lexus,IS,model_mention,0.757,220.795,600,463,0
+BMW,Z4,model_mention,0.736,218.275,574,431,0
+Mitsubishi,Outlander,model_mention,0.551,212.201,552,90,0
+Hyundai,Alcazar,model_mention,0.6,211.007,565,162,0
+Kia,Seltos,model_mention,0.588,210.706,578,149,0
+BMW,2 Series,model_mention,0.735,207.363,556,439,0
+Kia,EV6,future_demand,0.583,203.647,529,124,0
+Hyundai,i20,model_mention,0.601,199.171,532,178,0
+Lexus,UX,model_mention,0.753,184.618,492,476,0
+Kia,Carens,model_mention,0.586,184.254,497,147,0
+Hyundai,Verna,model_mention,0.607,180.871,483,154,0
+Ford,Ecosport,model_mention,0.587,178.452,473,141,0
+BMW,1 Series,model_mention,0.741,177.653,475,434,0
+Mitsubishi,ASX,model_mention,0.561,175.507,448,99,0
+Hyundai,i10,model_mention,0.62,167.762,429,203,0
+Hyundai,Venue,model_mention,0.598,165.478,444,158,0
+Kia,Sonet,model_mention,0.584,162.985,445,126,0
+Suzuki,Jimny,model_mention,0.541,160.248,434,88,0
+TANK,Tank 500,chinese_brand,0.492,154.09,426,41,0
+Ford,Aspire,model_mention,0.591,147.872,370,148,0
+Hyundai,Aura,model_mention,0.599,144.773,374,165,0
+Suzuki,Swift,model_mention,0.55,142.634,379,85,0
+Haval,H9,chinese_brand,0.447,139.227,382,18,0
+Mitsubishi,Mirage,model_mention,0.549,135.902,351,96,0
+TANK,Tank 700,chinese_brand,0.499,134.816,364,36,0
+Jetour,X90,chinese_brand,0.47,132.241,363,23,0
+Ford,Figo,model_mention,0.586,131.992,352,137,0
+Suzuki,Brezza,model_mention,0.558,130.329,347,96,0
+Geely,Tugella,chinese_brand,0.424,127.046,338,4,0
+Haval,Dargo,chinese_brand,0.443,123.899,335,11,0
+Suzuki,Ertiga,model_mention,0.55,122.85,341,82,0
+Jetour,X70 Plus,chinese_brand,0.476,120.367,334,20,0
+TANK,Tank 300,chinese_brand,0.495,118.39,312,37,0
+Geely,Azkarra,chinese_brand,0.424,114.221,307,6,0
+Suzuki,Baleno,model_mention,0.544,110.33,307,84,0
+Haval,H6,chinese_brand,0.444,109.976,309,10,0
+Jetour,Traveller,chinese_brand,0.477,109.067,286,24,0
+Suzuki,Dzire,model_mention,0.556,101.941,272,87,0
+Jetour,X70,chinese_brand,0.475,100.804,260,27,0
+Geely,Coolray,chinese_brand,0.432,100.681,266,8,0
+Haval,Jolion,chinese_brand,0.434,95.501,265,7,0
+Jetour,Dasheng,chinese_brand,0.467,89.883,238,23,0
+Suzuki,Celerio,model_mention,0.551,87.302,227,82,0
+Geely,Emgrand,chinese_brand,0.426,85.879,226,5,0
+Geely,Geometry C,future_demand,0.423,77.078,212,7,0
+Suzuki,Alto,model_mention,0.56,75.045,206,97,0

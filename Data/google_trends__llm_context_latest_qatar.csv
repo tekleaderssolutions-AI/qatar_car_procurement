@@ -1,0 +1,101 @@
+brand,model,region,country,week,search_score,trend_label
+Toyota,Fortuner,GCC,Qatar,2026-W09,94.4,Trending High
+Toyota,Land Cruiser,GCC,Qatar,2026-W09,89.8,Trending High
+Toyota,Prado,GCC,Qatar,2026-W09,87.9,Trending High
+Toyota,Corolla,GCC,Qatar,2026-W09,81.9,Trending High
+Lexus,LX,GCC,Qatar,2026-W09,79.6,Trending High
+Toyota,Hilux,GCC,Qatar,2026-W09,74.2,Trending High
+Lexus,GX,GCC,Qatar,2026-W09,69.6,Rising
+Toyota,Camry,GCC,Qatar,2026-W09,69.2,Rising
+Nissan,Patrol,GCC,Qatar,2026-W09,65.7,Rising
+Lexus,RX,GCC,Qatar,2026-W09,62.7,Rising
+Land Rover,Range Rover,GCC,Qatar,2026-W09,61.2,Rising
+Toyota,RAV4,GCC,Qatar,2026-W09,60.9,Rising
+Hyundai,Tucson,GCC,Qatar,2026-W09,58.5,Rising
+Lexus,ES,GCC,Qatar,2026-W09,57.9,Rising
+BMW,5 Series,GCC,Qatar,2026-W09,56.2,Rising
+Toyota,Yaris,GCC,Qatar,2026-W09,56,Rising
+Land Rover,Defender,GCC,Qatar,2026-W09,55,Rising
+Lexus,NX,GCC,Qatar,2026-W09,54.1,Rising
+Lexus,LS,GCC,Qatar,2026-W09,53.5,Rising
+Toyota,Innova,GCC,Qatar,2026-W09,53.2,Rising
+Land Rover,Range Rover Sport,GCC,Qatar,2026-W09,53.1,Rising
+Nissan,Pathfinder,GCC,Qatar,2026-W09,52.7,Rising
+BMW,X5,GCC,Qatar,2026-W09,51.9,Rising
+Nissan,X-Trail,GCC,Qatar,2026-W09,51.3,Rising
+Nissan,Altima,GCC,Qatar,2026-W09,51.1,Rising
+BMW,X7,GCC,Qatar,2026-W09,50.2,Rising
+Kia,Sportage,GCC,Qatar,2026-W09,49.3,Moderate
+Lexus,IS,GCC,Qatar,2026-W09,49.3,Moderate
+Kia,Seltos,GCC,Qatar,2026-W09,49,Moderate
+Hyundai,Verna,GCC,Qatar,2026-W09,48.7,Moderate
+Nissan,Kicks,GCC,Qatar,2026-W09,47.9,Moderate
+Lexus,UX,GCC,Qatar,2026-W09,47.5,Moderate
+Jetour,X90,GCC,Qatar,2026-W09,47,Moderate
+Nissan,Maxima,GCC,Qatar,2026-W09,45.7,Moderate
+Ford,Mustang,GCC,Qatar,2026-W09,45.3,Moderate
+Nissan,Sunny,GCC,Qatar,2026-W09,45.1,Moderate
+BMW,7 Series,GCC,Qatar,2026-W09,44,Moderate
+Mitsubishi,Pajero,GCC,Qatar,2026-W09,42.6,Moderate
+Kia,Sorento,GCC,Qatar,2026-W09,41.9,Moderate
+Land Rover,Discovery,GCC,Qatar,2026-W09,41.3,Moderate
+BMW,X3,GCC,Qatar,2026-W09,41.2,Moderate
+Land Rover,Discovery Sport,GCC,Qatar,2026-W09,40.6,Moderate
+BMW,iX,GCC,Qatar,2026-W09,40.1,Moderate
+Mitsubishi,Outlander,GCC,Qatar,2026-W09,39.9,Moderate
+Jetour,X70 Plus,GCC,Qatar,2026-W09,39.8,Moderate
+Hyundai,Creta,GCC,Qatar,2026-W09,39.7,Moderate
+BMW,3 Series,GCC,Qatar,2026-W09,38.7,Moderate
+Kia,Carnival,GCC,Qatar,2026-W09,38.6,Moderate
+Hyundai,Kona EV,GCC,Qatar,2026-W09,38.5,Moderate
+Ford,Explorer,GCC,Qatar,2026-W09,38,Moderate
+Toyota,Urban Cruiser,GCC,Qatar,2026-W09,37.9,Moderate
+Suzuki,Swift,GCC,Qatar,2026-W09,37.5,Moderate
+Jetour,Traveller,GCC,Qatar,2026-W09,37.3,Moderate
+Land Rover,Range Rover Evoque,GCC,Qatar,2026-W09,37.1,Moderate
+TANK,Tank 700,GCC,Qatar,2026-W09,37.1,Moderate
+Mitsubishi,Pajero Sport,GCC,Qatar,2026-W09,36.8,Moderate
+Hyundai,Alcazar,GCC,Qatar,2026-W09,36.8,Moderate
+Kia,Carens,GCC,Qatar,2026-W09,36.7,Moderate
+Mitsubishi,L200,GCC,Qatar,2026-W09,36.7,Moderate
+Suzuki,Ertiga,GCC,Qatar,2026-W09,35.9,Moderate
+Ford,Ranger,GCC,Qatar,2026-W09,35.9,Moderate
+Ford,Endeavour,GCC,Qatar,2026-W09,35.6,Moderate
+Hyundai,Venue,GCC,Qatar,2026-W09,34.4,Low
+Kia,Sonet,GCC,Qatar,2026-W09,34.2,Low
+Suzuki,Jimny,GCC,Qatar,2026-W09,34.2,Low
+BMW,i7,GCC,Qatar,2026-W09,34.2,Low
+BMW,Z4,GCC,Qatar,2026-W09,33.8,Low
+Haval,H9,GCC,Qatar,2026-W09,33,Low
+Land Rover,Range Rover Velar,GCC,Qatar,2026-W09,32.9,Low
+Suzuki,Brezza,GCC,Qatar,2026-W09,32.6,Low
+BMW,X1,GCC,Qatar,2026-W09,32.5,Low
+Suzuki,Baleno,GCC,Qatar,2026-W09,31.6,Low
+BMW,i4,GCC,Qatar,2026-W09,31.3,Low
+BMW,1 Series,GCC,Qatar,2026-W09,31.1,Low
+Ford,Ecosport,GCC,Qatar,2026-W09,29.8,Low
+Kia,EV6,GCC,Qatar,2026-W09,29.6,Low
+TANK,Tank 500,GCC,Qatar,2026-W09,28.8,Low
+Hyundai,i20,GCC,Qatar,2026-W09,27.9,Low
+Jetour,Dasheng,GCC,Qatar,2026-W09,25.2,Low
+Hyundai,i10,GCC,Qatar,2026-W09,25,Low
+BMW,2 Series,GCC,Qatar,2026-W09,23.6,Low
+Mitsubishi,ASX,GCC,Qatar,2026-W09,22.9,Low
+TANK,Tank 300,GCC,Qatar,2026-W09,22.6,Low
+Geely,Tugella,GCC,Qatar,2026-W09,22.2,Low
+Haval,Jolion,GCC,Qatar,2026-W09,21.8,Low
+Suzuki,Dzire,GCC,Qatar,2026-W09,21.6,Low
+Geely,Azkarra,GCC,Qatar,2026-W09,20.7,Low
+Mitsubishi,Mirage,GCC,Qatar,2026-W09,20.6,Low
+Ford,Aspire,GCC,Qatar,2026-W09,19.9,Minimal
+Haval,H6,GCC,Qatar,2026-W09,18.9,Minimal
+Ford,Figo,GCC,Qatar,2026-W09,18.6,Minimal
+Jetour,X70,GCC,Qatar,2026-W09,18.6,Minimal
+Hyundai,Aura,GCC,Qatar,2026-W09,16.8,Minimal
+Suzuki,Alto,GCC,Qatar,2026-W09,15.8,Minimal
+Haval,Dargo,GCC,Qatar,2026-W09,15.7,Minimal
+Geely,Emgrand,GCC,Qatar,2026-W09,15.2,Minimal
+Suzuki,Celerio,GCC,Qatar,2026-W09,14.8,Minimal
+Geely,Coolray,GCC,Qatar,2026-W09,14.2,Minimal
+Geely,Geometry C,GCC,Qatar,2026-W09,12.7,Minimal
+Nissan,Magnite,GCC,Qatar,2026-W09,11.5,Minimal

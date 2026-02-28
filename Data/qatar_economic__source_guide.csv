@@ -1,0 +1,14 @@
+Indicator,Source Name,Direct Link,Cost,Format,How to Get,Update Frequency
+GDP Growth Rate,World Bank API,api.worldbank.org/v2/country/QA/indicator/NY.GDP.MKTP.KD.ZG?format=json,Free,JSON/CSV,Paste URL in browser or Python requests,Annual
+Population / Expats,World Bank API,api.worldbank.org/v2/country/QA/indicator/SP.POP.TOTL?format=json,Free,JSON/CSV,Paste URL in browser or Python requests,Annual
+Inflation Rate,IMF DataMapper API,imf.org/external/datamapper/api/v1/PCPIPCH/QAT,Free,JSON,Paste URL in browser or Python requests,Annual
+Oil Price Brent,EIA API,"eia.gov/opendata - register free, instant API key",Free,JSON/CSV,Register → get key → call API,Daily/Weekly
+Interest Rate,Qatar Central Bank,qcb.gov.qa/en/Pages/publication.aspx,Free,Excel/PDF,Monthly Statistical Bulletin download,Monthly
+Car Registrations,Qatar Open Data API,data.gov.qa/explore/dataset/vehicle-registration-transactions,Free,CSV/JSON,Export button on page or API call,Monthly
+Consumer Confidence,Trading Economics,tradingeconomics.com/qatar/consumer-confidence,$25/mo,Excel,Subscribe → Download button on chart,Monthly
+All Qatar Indicators,Trading Economics,tradingeconomics.com/qatar/indicators,$25/mo,Excel,Excel Add-in or download each chart,Monthly
+GCC Economic Stats,GIC Kuwait (Free PDF),gic.com.kw/wp-content/uploads/2025/02/GCC-ECONOMIC-STATISTICS-2025.new_.pdf,Free,PDF,Direct PDF link - download and extract,Annual
+IMF Qatar Full Report,IMF Publications,imf.org/en/Publications/CR?country=QAT,Free,PDF,Search Qatar → Article IV → Download PDF,Annual
+Market Revenue Forecast,Statista,statista.com/outlook/mmo/passenger-cars/qatar,$39/mo,Excel,Subscribe → Download button,Annual
+Brand/Model Sales,BestSellingCarsBlog,bestsellingcarsblog.com/market/qatar/,Free,Web,Read articles → copy tables to Excel,Quarterly
+Auto Sector Analysis,MEratings PDF,meratings.com/wp-content/uploads/2023/10/Qatars-Automotive-Sector-Analysis-October-2023.pdf,Free,PDF,Direct link → Ctrl+S to save,Annual

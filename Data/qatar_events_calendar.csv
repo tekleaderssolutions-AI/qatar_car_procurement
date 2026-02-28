@@ -1,0 +1,193 @@
+event_id,event_name,start_date,end_date,event_type,demand_impact,affected_segment,demand_multiplier,body_type_boost,notes
+1,Ramadan,2015-06-18,2015-07-17,Religious,high,All,1.35,SUV,"Pre-Ramadan 2 weeks = peak buying, during = slow"
+2,Eid Al Fitr,2015-07-18,2015-07-21,Religious,high,All,1.45,SUV,"Family car upgrades, gift purchases spike"
+3,Eid Al Adha,2015-09-25,2015-09-29,Religious,high,All,1.4,SUV,Second major buying spike of the year
+4,Qatar National Day,2015-12-18,2015-12-19,National,high,Qatari,1.3,SUV,"Dec 18 — Patriotic sentiment, Qatari nationals most active"
+5,Summer Slow Season,2015-06-01,2015-08-31,Seasonal,negative,Expat,0.62,None,"June-Aug expat exodus, 30-40% population leaves Qatar"
+6,Winter Peak Season,2015-11-01,2015-02-28,Seasonal,high,All,1.28,"SUV,Pickup","Nov-Feb outdoor activity, 4WD demand peaks"
+7,Government Budget Cycle,2015-10-01,2015-12-31,Economic,high,Government,1.55,SUV,Q4 government procurement — fleet orders surge
+8,Year End Dealer Push,2015-12-01,2015-12-31,Economic,high,All,1.22,All,Dealers push targets — heavy discounting Dec
+9,School Start Season,2015-08-15,2015-09-15,Seasonal,medium,Individual,1.15,"Sedan,Van",Aug-Sep families buy practical cars for school run
+10,GCC Automotive Show,2015-03-10,2015-03-15,Industry,medium,All,1.2,All,Annual auto show drives showroom traffic
+11,Qatar Founding Day,2015-02-22,2015-02-22,National,medium,Qatari,1.15,SUV,"Feb 22 — National pride, moderate buying activity"
+12,Expat Salary Bonus Season,2015-12-20,2015-12-31,Economic,medium,Expat,1.18,"Sedan,Crossover",End of year bonuses — expat segment buys sedans/crossovers
+13,Ramadan,2016-06-06,2016-07-05,Religious,high,All,1.35,SUV,"Pre-Ramadan 2 weeks = peak buying, during = slow"
+14,Eid Al Fitr,2016-07-06,2016-07-09,Religious,high,All,1.45,SUV,"Family car upgrades, gift purchases spike"
+15,Eid Al Adha,2016-09-13,2016-09-17,Religious,high,All,1.4,SUV,Second major buying spike of the year
+16,Qatar National Day,2016-12-18,2016-12-19,National,high,Qatari,1.3,SUV,"Dec 18 — Patriotic sentiment, Qatari nationals most active"
+17,Summer Slow Season,2016-06-01,2016-08-31,Seasonal,negative,Expat,0.62,None,"June-Aug expat exodus, 30-40% population leaves Qatar"
+18,Winter Peak Season,2016-11-01,2016-02-28,Seasonal,high,All,1.28,"SUV,Pickup","Nov-Feb outdoor activity, 4WD demand peaks"
+19,Government Budget Cycle,2016-10-01,2016-12-31,Economic,high,Government,1.55,SUV,Q4 government procurement — fleet orders surge
+20,Year End Dealer Push,2016-12-01,2016-12-31,Economic,high,All,1.22,All,Dealers push targets — heavy discounting Dec
+21,School Start Season,2016-08-15,2016-09-15,Seasonal,medium,Individual,1.15,"Sedan,Van",Aug-Sep families buy practical cars for school run
+22,GCC Automotive Show,2016-03-10,2016-03-15,Industry,medium,All,1.2,All,Annual auto show drives showroom traffic
+23,Qatar Founding Day,2016-02-22,2016-02-22,National,medium,Qatari,1.15,SUV,"Feb 22 — National pride, moderate buying activity"
+24,Expat Salary Bonus Season,2016-12-20,2016-12-31,Economic,medium,Expat,1.18,"Sedan,Crossover",End of year bonuses — expat segment buys sedans/crossovers
+25,Ramadan,2017-05-27,2017-06-25,Religious,high,All,1.35,SUV,"Pre-Ramadan 2 weeks = peak buying, during = slow"
+26,Eid Al Fitr,2017-06-26,2017-06-29,Religious,high,All,1.45,SUV,"Family car upgrades, gift purchases spike"
+27,Eid Al Adha,2017-09-03,2017-09-07,Religious,high,All,1.4,SUV,Second major buying spike of the year
+28,Qatar National Day,2017-12-18,2017-12-19,National,high,Qatari,1.3,SUV,"Dec 18 — Patriotic sentiment, Qatari nationals most active"
+29,Summer Slow Season,2017-06-01,2017-08-31,Seasonal,negative,Expat,0.62,None,"June-Aug expat exodus, 30-40% population leaves Qatar"
+30,Winter Peak Season,2017-11-01,2017-02-28,Seasonal,high,All,1.28,"SUV,Pickup","Nov-Feb outdoor activity, 4WD demand peaks"
+31,Government Budget Cycle,2017-10-01,2017-12-31,Economic,high,Government,1.55,SUV,Q4 government procurement — fleet orders surge
+32,Year End Dealer Push,2017-12-01,2017-12-31,Economic,high,All,1.22,All,Dealers push targets — heavy discounting Dec
+33,School Start Season,2017-08-15,2017-09-15,Seasonal,medium,Individual,1.15,"Sedan,Van",Aug-Sep families buy practical cars for school run
+34,GCC Automotive Show,2017-03-10,2017-03-15,Industry,medium,All,1.2,All,Annual auto show drives showroom traffic
+35,Qatar Founding Day,2017-02-22,2017-02-22,National,medium,Qatari,1.15,SUV,"Feb 22 — National pride, moderate buying activity"
+36,Expat Salary Bonus Season,2017-12-20,2017-12-31,Economic,medium,Expat,1.18,"Sedan,Crossover",End of year bonuses — expat segment buys sedans/crossovers
+37,Ramadan,2018-05-16,2018-06-14,Religious,high,All,1.35,SUV,"Pre-Ramadan 2 weeks = peak buying, during = slow"
+38,Eid Al Fitr,2018-06-15,2018-06-18,Religious,high,All,1.45,SUV,"Family car upgrades, gift purchases spike"
+39,Eid Al Adha,2018-08-23,2018-08-27,Religious,high,All,1.4,SUV,Second major buying spike of the year
+40,Qatar National Day,2018-12-18,2018-12-19,National,high,Qatari,1.3,SUV,"Dec 18 — Patriotic sentiment, Qatari nationals most active"
+41,Summer Slow Season,2018-06-01,2018-08-31,Seasonal,negative,Expat,0.62,None,"June-Aug expat exodus, 30-40% population leaves Qatar"
+42,Winter Peak Season,2018-11-01,2018-02-28,Seasonal,high,All,1.28,"SUV,Pickup","Nov-Feb outdoor activity, 4WD demand peaks"
+43,Government Budget Cycle,2018-10-01,2018-12-31,Economic,high,Government,1.55,SUV,Q4 government procurement — fleet orders surge
+44,Year End Dealer Push,2018-12-01,2018-12-31,Economic,high,All,1.22,All,Dealers push targets — heavy discounting Dec
+45,School Start Season,2018-08-15,2018-09-15,Seasonal,medium,Individual,1.15,"Sedan,Van",Aug-Sep families buy practical cars for school run
+46,GCC Automotive Show,2018-03-10,2018-03-15,Industry,medium,All,1.2,All,Annual auto show drives showroom traffic
+47,Qatar Founding Day,2018-02-22,2018-02-22,National,medium,Qatari,1.15,SUV,"Feb 22 — National pride, moderate buying activity"
+48,Expat Salary Bonus Season,2018-12-20,2018-12-31,Economic,medium,Expat,1.18,"Sedan,Crossover",End of year bonuses — expat segment buys sedans/crossovers
+49,Ramadan,2019-05-05,2019-06-03,Religious,high,All,1.35,SUV,"Pre-Ramadan 2 weeks = peak buying, during = slow"
+50,Eid Al Fitr,2019-06-04,2019-06-07,Religious,high,All,1.45,SUV,"Family car upgrades, gift purchases spike"
+51,Eid Al Adha,2019-08-12,2019-08-16,Religious,high,All,1.4,SUV,Second major buying spike of the year
+52,Qatar National Day,2019-12-18,2019-12-19,National,high,Qatari,1.3,SUV,"Dec 18 — Patriotic sentiment, Qatari nationals most active"
+53,Summer Slow Season,2019-06-01,2019-08-31,Seasonal,negative,Expat,0.62,None,"June-Aug expat exodus, 30-40% population leaves Qatar"
+54,Winter Peak Season,2019-11-01,2019-02-28,Seasonal,high,All,1.28,"SUV,Pickup","Nov-Feb outdoor activity, 4WD demand peaks"
+55,Government Budget Cycle,2019-10-01,2019-12-31,Economic,high,Government,1.55,SUV,Q4 government procurement — fleet orders surge
+56,Year End Dealer Push,2019-12-01,2019-12-31,Economic,high,All,1.22,All,Dealers push targets — heavy discounting Dec
+57,School Start Season,2019-08-15,2019-09-15,Seasonal,medium,Individual,1.15,"Sedan,Van",Aug-Sep families buy practical cars for school run
+58,GCC Automotive Show,2019-03-10,2019-03-15,Industry,medium,All,1.2,All,Annual auto show drives showroom traffic
+59,Qatar Founding Day,2019-02-22,2019-02-22,National,medium,Qatari,1.15,SUV,"Feb 22 — National pride, moderate buying activity"
+60,Expat Salary Bonus Season,2019-12-20,2019-12-31,Economic,medium,Expat,1.18,"Sedan,Crossover",End of year bonuses — expat segment buys sedans/crossovers
+61,Ramadan,2020-04-23,2020-05-23,Religious,high,All,1.35,SUV,"Pre-Ramadan 2 weeks = peak buying, during = slow"
+62,Eid Al Fitr,2020-05-24,2020-05-27,Religious,high,All,1.45,SUV,"Family car upgrades, gift purchases spike"
+63,Eid Al Adha,2020-08-01,2020-08-05,Religious,high,All,1.4,SUV,Second major buying spike of the year
+64,Qatar National Day,2020-12-18,2020-12-19,National,high,Qatari,1.3,SUV,"Dec 18 — Patriotic sentiment, Qatari nationals most active"
+65,Summer Slow Season,2020-06-01,2020-08-31,Seasonal,negative,Expat,0.62,None,"June-Aug expat exodus, 30-40% population leaves Qatar"
+66,Winter Peak Season,2020-11-01,2020-02-28,Seasonal,high,All,1.28,"SUV,Pickup","Nov-Feb outdoor activity, 4WD demand peaks"
+67,Government Budget Cycle,2020-10-01,2020-12-31,Economic,high,Government,1.55,SUV,Q4 government procurement — fleet orders surge
+68,Year End Dealer Push,2020-12-01,2020-12-31,Economic,high,All,1.22,All,Dealers push targets — heavy discounting Dec
+69,School Start Season,2020-08-15,2020-09-15,Seasonal,medium,Individual,1.15,"Sedan,Van",Aug-Sep families buy practical cars for school run
+70,GCC Automotive Show,2020-03-10,2020-03-15,Industry,medium,All,1.2,All,Annual auto show drives showroom traffic
+71,Qatar Founding Day,2020-02-22,2020-02-22,National,medium,Qatari,1.15,SUV,"Feb 22 — National pride, moderate buying activity"
+72,Expat Salary Bonus Season,2020-12-20,2020-12-31,Economic,medium,Expat,1.18,"Sedan,Crossover",End of year bonuses — expat segment buys sedans/crossovers
+73,Ramadan,2021-04-12,2021-05-12,Religious,high,All,1.35,SUV,"Pre-Ramadan 2 weeks = peak buying, during = slow"
+74,Eid Al Fitr,2021-05-13,2021-05-16,Religious,high,All,1.45,SUV,"Family car upgrades, gift purchases spike"
+75,Eid Al Adha,2021-07-21,2021-07-25,Religious,high,All,1.4,SUV,Second major buying spike of the year
+76,Qatar National Day,2021-12-18,2021-12-19,National,high,Qatari,1.3,SUV,"Dec 18 — Patriotic sentiment, Qatari nationals most active"
+77,Summer Slow Season,2021-06-01,2021-08-31,Seasonal,negative,Expat,0.62,None,"June-Aug expat exodus, 30-40% population leaves Qatar"
+78,Winter Peak Season,2021-11-01,2021-02-28,Seasonal,high,All,1.28,"SUV,Pickup","Nov-Feb outdoor activity, 4WD demand peaks"
+79,Government Budget Cycle,2021-10-01,2021-12-31,Economic,high,Government,1.55,SUV,Q4 government procurement — fleet orders surge
+80,Year End Dealer Push,2021-12-01,2021-12-31,Economic,high,All,1.22,All,Dealers push targets — heavy discounting Dec
+81,School Start Season,2021-08-15,2021-09-15,Seasonal,medium,Individual,1.15,"Sedan,Van",Aug-Sep families buy practical cars for school run
+82,GCC Automotive Show,2021-03-10,2021-03-15,Industry,medium,All,1.2,All,Annual auto show drives showroom traffic
+83,Qatar Founding Day,2021-02-22,2021-02-22,National,medium,Qatari,1.15,SUV,"Feb 22 — National pride, moderate buying activity"
+84,Expat Salary Bonus Season,2021-12-20,2021-12-31,Economic,medium,Expat,1.18,"Sedan,Crossover",End of year bonuses — expat segment buys sedans/crossovers
+85,Ramadan,2022-04-02,2022-05-01,Religious,high,All,1.35,SUV,"Pre-Ramadan 2 weeks = peak buying, during = slow"
+86,Eid Al Fitr,2022-05-02,2022-05-05,Religious,high,All,1.45,SUV,"Family car upgrades, gift purchases spike"
+87,Eid Al Adha,2022-07-10,2022-07-14,Religious,high,All,1.4,SUV,Second major buying spike of the year
+88,Qatar National Day,2022-12-18,2022-12-19,National,high,Qatari,1.3,SUV,"Dec 18 — Patriotic sentiment, Qatari nationals most active"
+89,Summer Slow Season,2022-06-01,2022-08-31,Seasonal,negative,Expat,0.62,None,"June-Aug expat exodus, 30-40% population leaves Qatar"
+90,Winter Peak Season,2022-11-01,2022-02-28,Seasonal,high,All,1.28,"SUV,Pickup","Nov-Feb outdoor activity, 4WD demand peaks"
+91,Government Budget Cycle,2022-10-01,2022-12-31,Economic,high,Government,1.55,SUV,Q4 government procurement — fleet orders surge
+92,Year End Dealer Push,2022-12-01,2022-12-31,Economic,high,All,1.22,All,Dealers push targets — heavy discounting Dec
+93,School Start Season,2022-08-15,2022-09-15,Seasonal,medium,Individual,1.15,"Sedan,Van",Aug-Sep families buy practical cars for school run
+94,GCC Automotive Show,2022-03-10,2022-03-15,Industry,medium,All,1.2,All,Annual auto show drives showroom traffic
+95,Qatar Founding Day,2022-02-22,2022-02-22,National,medium,Qatari,1.15,SUV,"Feb 22 — National pride, moderate buying activity"
+96,Expat Salary Bonus Season,2022-12-20,2022-12-31,Economic,medium,Expat,1.18,"Sedan,Crossover",End of year bonuses — expat segment buys sedans/crossovers
+97,Ramadan,2023-03-22,2023-04-21,Religious,high,All,1.35,SUV,"Pre-Ramadan 2 weeks = peak buying, during = slow"
+98,Eid Al Fitr,2023-04-22,2023-04-25,Religious,high,All,1.45,SUV,"Family car upgrades, gift purchases spike"
+99,Eid Al Adha,2023-06-30,2023-07-04,Religious,high,All,1.4,SUV,Second major buying spike of the year
+100,Qatar National Day,2023-12-18,2023-12-19,National,high,Qatari,1.3,SUV,"Dec 18 — Patriotic sentiment, Qatari nationals most active"
+101,Summer Slow Season,2023-06-01,2023-08-31,Seasonal,negative,Expat,0.62,None,"June-Aug expat exodus, 30-40% population leaves Qatar"
+102,Winter Peak Season,2023-11-01,2023-02-28,Seasonal,high,All,1.28,"SUV,Pickup","Nov-Feb outdoor activity, 4WD demand peaks"
+103,Government Budget Cycle,2023-10-01,2023-12-31,Economic,high,Government,1.55,SUV,Q4 government procurement — fleet orders surge
+104,Year End Dealer Push,2023-12-01,2023-12-31,Economic,high,All,1.22,All,Dealers push targets — heavy discounting Dec
+105,School Start Season,2023-08-15,2023-09-15,Seasonal,medium,Individual,1.15,"Sedan,Van",Aug-Sep families buy practical cars for school run
+106,GCC Automotive Show,2023-03-10,2023-03-15,Industry,medium,All,1.2,All,Annual auto show drives showroom traffic
+107,Qatar Founding Day,2023-02-22,2023-02-22,National,medium,Qatari,1.15,SUV,"Feb 22 — National pride, moderate buying activity"
+108,Expat Salary Bonus Season,2023-12-20,2023-12-31,Economic,medium,Expat,1.18,"Sedan,Crossover",End of year bonuses — expat segment buys sedans/crossovers
+109,Ramadan,2024-03-10,2024-04-09,Religious,high,All,1.35,SUV,"Pre-Ramadan 2 weeks = peak buying, during = slow"
+110,Eid Al Fitr,2024-04-10,2024-04-13,Religious,high,All,1.45,SUV,"Family car upgrades, gift purchases spike"
+111,Eid Al Adha,2024-06-18,2024-06-22,Religious,high,All,1.4,SUV,Second major buying spike of the year
+112,Qatar National Day,2024-12-18,2024-12-19,National,high,Qatari,1.3,SUV,"Dec 18 — Patriotic sentiment, Qatari nationals most active"
+113,Summer Slow Season,2024-06-01,2024-08-31,Seasonal,negative,Expat,0.62,None,"June-Aug expat exodus, 30-40% population leaves Qatar"
+114,Winter Peak Season,2024-11-01,2024-02-28,Seasonal,high,All,1.28,"SUV,Pickup","Nov-Feb outdoor activity, 4WD demand peaks"
+115,Government Budget Cycle,2024-10-01,2024-12-31,Economic,high,Government,1.55,SUV,Q4 government procurement — fleet orders surge
+116,Year End Dealer Push,2024-12-01,2024-12-31,Economic,high,All,1.22,All,Dealers push targets — heavy discounting Dec
+117,School Start Season,2024-08-15,2024-09-15,Seasonal,medium,Individual,1.15,"Sedan,Van",Aug-Sep families buy practical cars for school run
+118,GCC Automotive Show,2024-03-10,2024-03-15,Industry,medium,All,1.2,All,Annual auto show drives showroom traffic
+119,Qatar Founding Day,2024-02-22,2024-02-22,National,medium,Qatari,1.15,SUV,"Feb 22 — National pride, moderate buying activity"
+120,Expat Salary Bonus Season,2024-12-20,2024-12-31,Economic,medium,Expat,1.18,"Sedan,Crossover",End of year bonuses — expat segment buys sedans/crossovers
+121,Ramadan,2025-02-28,2025-03-30,Religious,high,All,1.35,SUV,"Pre-Ramadan 2 weeks = peak buying, during = slow"
+122,Eid Al Fitr,2025-03-31,2025-04-03,Religious,high,All,1.45,SUV,"Family car upgrades, gift purchases spike"
+123,Eid Al Adha,2025-06-08,2025-06-12,Religious,high,All,1.4,SUV,Second major buying spike of the year
+124,Qatar National Day,2025-12-18,2025-12-19,National,high,Qatari,1.3,SUV,"Dec 18 — Patriotic sentiment, Qatari nationals most active"
+125,Summer Slow Season,2025-06-01,2025-08-31,Seasonal,negative,Expat,0.62,None,"June-Aug expat exodus, 30-40% population leaves Qatar"
+126,Winter Peak Season,2025-11-01,2025-02-28,Seasonal,high,All,1.28,"SUV,Pickup","Nov-Feb outdoor activity, 4WD demand peaks"
+127,Government Budget Cycle,2025-10-01,2025-12-31,Economic,high,Government,1.55,SUV,Q4 government procurement — fleet orders surge
+128,Year End Dealer Push,2025-12-01,2025-12-31,Economic,high,All,1.22,All,Dealers push targets — heavy discounting Dec
+129,School Start Season,2025-08-15,2025-09-15,Seasonal,medium,Individual,1.15,"Sedan,Van",Aug-Sep families buy practical cars for school run
+130,GCC Automotive Show,2025-03-10,2025-03-15,Industry,medium,All,1.2,All,Annual auto show drives showroom traffic
+131,Qatar Founding Day,2025-02-22,2025-02-22,National,medium,Qatari,1.15,SUV,"Feb 22 — National pride, moderate buying activity"
+132,Expat Salary Bonus Season,2025-12-20,2025-12-31,Economic,medium,Expat,1.18,"Sedan,Crossover",End of year bonuses — expat segment buys sedans/crossovers
+133,Ramadan,2026-02-17,2026-03-19,Religious,high,All,1.35,SUV,"Pre-Ramadan 2 weeks = peak buying, during = slow"
+134,Eid Al Fitr,2026-03-20,2026-03-23,Religious,high,All,1.45,SUV,"Family car upgrades, gift purchases spike"
+135,Eid Al Adha,2026-05-28,2026-06-01,Religious,high,All,1.4,SUV,Second major buying spike of the year
+136,Qatar National Day,2026-12-18,2026-12-19,National,high,Qatari,1.3,SUV,"Dec 18 — Patriotic sentiment, Qatari nationals most active"
+137,Summer Slow Season,2026-06-01,2026-08-31,Seasonal,negative,Expat,0.62,None,"June-Aug expat exodus, 30-40% population leaves Qatar"
+138,Winter Peak Season,2026-11-01,2026-02-28,Seasonal,high,All,1.28,"SUV,Pickup","Nov-Feb outdoor activity, 4WD demand peaks"
+139,Government Budget Cycle,2026-10-01,2026-12-31,Economic,high,Government,1.55,SUV,Q4 government procurement — fleet orders surge
+140,Year End Dealer Push,2026-12-01,2026-12-31,Economic,high,All,1.22,All,Dealers push targets — heavy discounting Dec
+141,School Start Season,2026-08-15,2026-09-15,Seasonal,medium,Individual,1.15,"Sedan,Van",Aug-Sep families buy practical cars for school run
+142,GCC Automotive Show,2026-03-10,2026-03-15,Industry,medium,All,1.2,All,Annual auto show drives showroom traffic
+143,Qatar Founding Day,2026-02-22,2026-02-22,National,medium,Qatari,1.15,SUV,"Feb 22 — National pride, moderate buying activity"
+144,Expat Salary Bonus Season,2026-12-20,2026-12-31,Economic,medium,Expat,1.18,"Sedan,Crossover",End of year bonuses — expat segment buys sedans/crossovers
+145,Ramadan,2027-02-07,2027-03-08,Religious,high,All,1.35,SUV,"Pre-Ramadan 2 weeks = peak buying, during = slow"
+146,Eid Al Fitr,2027-03-09,2027-03-12,Religious,high,All,1.45,SUV,"Family car upgrades, gift purchases spike"
+147,Eid Al Adha,2027-05-17,2027-05-21,Religious,high,All,1.4,SUV,Second major buying spike of the year
+148,Qatar National Day,2027-12-18,2027-12-19,National,high,Qatari,1.3,SUV,"Dec 18 — Patriotic sentiment, Qatari nationals most active"
+149,Summer Slow Season,2027-06-01,2027-08-31,Seasonal,negative,Expat,0.62,None,"June-Aug expat exodus, 30-40% population leaves Qatar"
+150,Winter Peak Season,2027-11-01,2027-02-28,Seasonal,high,All,1.28,"SUV,Pickup","Nov-Feb outdoor activity, 4WD demand peaks"
+151,Government Budget Cycle,2027-10-01,2027-12-31,Economic,high,Government,1.55,SUV,Q4 government procurement — fleet orders surge
+152,Year End Dealer Push,2027-12-01,2027-12-31,Economic,high,All,1.22,All,Dealers push targets — heavy discounting Dec
+153,School Start Season,2027-08-15,2027-09-15,Seasonal,medium,Individual,1.15,"Sedan,Van",Aug-Sep families buy practical cars for school run
+154,GCC Automotive Show,2027-03-10,2027-03-15,Industry,medium,All,1.2,All,Annual auto show drives showroom traffic
+155,Qatar Founding Day,2027-02-22,2027-02-22,National,medium,Qatari,1.15,SUV,"Feb 22 — National pride, moderate buying activity"
+156,Expat Salary Bonus Season,2027-12-20,2027-12-31,Economic,medium,Expat,1.18,"Sedan,Crossover",End of year bonuses — expat segment buys sedans/crossovers
+157,Ramadan,2028-01-27,2028-02-25,Religious,high,All,1.35,SUV,"Pre-Ramadan 2 weeks = peak buying, during = slow"
+158,Eid Al Fitr,2028-02-26,2028-02-29,Religious,high,All,1.45,SUV,"Family car upgrades, gift purchases spike"
+159,Eid Al Adha,2028-05-05,2028-05-09,Religious,high,All,1.4,SUV,Second major buying spike of the year
+160,Qatar National Day,2028-12-18,2028-12-19,National,high,Qatari,1.3,SUV,"Dec 18 — Patriotic sentiment, Qatari nationals most active"
+161,Summer Slow Season,2028-06-01,2028-08-31,Seasonal,negative,Expat,0.62,None,"June-Aug expat exodus, 30-40% population leaves Qatar"
+162,Winter Peak Season,2028-11-01,2028-02-28,Seasonal,high,All,1.28,"SUV,Pickup","Nov-Feb outdoor activity, 4WD demand peaks"
+163,Government Budget Cycle,2028-10-01,2028-12-31,Economic,high,Government,1.55,SUV,Q4 government procurement — fleet orders surge
+164,Year End Dealer Push,2028-12-01,2028-12-31,Economic,high,All,1.22,All,Dealers push targets — heavy discounting Dec
+165,School Start Season,2028-08-15,2028-09-15,Seasonal,medium,Individual,1.15,"Sedan,Van",Aug-Sep families buy practical cars for school run
+166,GCC Automotive Show,2028-03-10,2028-03-15,Industry,medium,All,1.2,All,Annual auto show drives showroom traffic
+167,Qatar Founding Day,2028-02-22,2028-02-22,National,medium,Qatari,1.15,SUV,"Feb 22 — National pride, moderate buying activity"
+168,Expat Salary Bonus Season,2028-12-20,2028-12-31,Economic,medium,Expat,1.18,"Sedan,Crossover",End of year bonuses — expat segment buys sedans/crossovers
+169,Ramadan,2029-01-15,2029-02-13,Religious,high,All,1.35,SUV,"Pre-Ramadan 2 weeks = peak buying, during = slow"
+170,Eid Al Fitr,2029-02-14,2029-02-17,Religious,high,All,1.45,SUV,"Family car upgrades, gift purchases spike"
+171,Eid Al Adha,2029-04-24,2029-04-28,Religious,high,All,1.4,SUV,Second major buying spike of the year
+172,Qatar National Day,2029-12-18,2029-12-19,National,high,Qatari,1.3,SUV,"Dec 18 — Patriotic sentiment, Qatari nationals most active"
+173,Summer Slow Season,2029-06-01,2029-08-31,Seasonal,negative,Expat,0.62,None,"June-Aug expat exodus, 30-40% population leaves Qatar"
+174,Winter Peak Season,2029-11-01,2029-02-28,Seasonal,high,All,1.28,"SUV,Pickup","Nov-Feb outdoor activity, 4WD demand peaks"
+175,Government Budget Cycle,2029-10-01,2029-12-31,Economic,high,Government,1.55,SUV,Q4 government procurement — fleet orders surge
+176,Year End Dealer Push,2029-12-01,2029-12-31,Economic,high,All,1.22,All,Dealers push targets — heavy discounting Dec
+177,School Start Season,2029-08-15,2029-09-15,Seasonal,medium,Individual,1.15,"Sedan,Van",Aug-Sep families buy practical cars for school run
+178,GCC Automotive Show,2029-03-10,2029-03-15,Industry,medium,All,1.2,All,Annual auto show drives showroom traffic
+179,Qatar Founding Day,2029-02-22,2029-02-22,National,medium,Qatari,1.15,SUV,"Feb 22 — National pride, moderate buying activity"
+180,Expat Salary Bonus Season,2029-12-20,2029-12-31,Economic,medium,Expat,1.18,"Sedan,Crossover",End of year bonuses — expat segment buys sedans/crossovers
+181,Ramadan,2030-01-05,2030-02-03,Religious,high,All,1.35,SUV,"Pre-Ramadan 2 weeks = peak buying, during = slow"
+182,Eid Al Fitr,2030-02-04,2030-02-07,Religious,high,All,1.45,SUV,"Family car upgrades, gift purchases spike"
+183,Eid Al Adha,2030-04-14,2030-04-18,Religious,high,All,1.4,SUV,Second major buying spike of the year
+184,Qatar National Day,2030-12-18,2030-12-19,National,high,Qatari,1.3,SUV,"Dec 18 — Patriotic sentiment, Qatari nationals most active"
+185,Summer Slow Season,2030-06-01,2030-08-31,Seasonal,negative,Expat,0.62,None,"June-Aug expat exodus, 30-40% population leaves Qatar"
+186,Winter Peak Season,2030-11-01,2030-02-28,Seasonal,high,All,1.28,"SUV,Pickup","Nov-Feb outdoor activity, 4WD demand peaks"
+187,Government Budget Cycle,2030-10-01,2030-12-31,Economic,high,Government,1.55,SUV,Q4 government procurement — fleet orders surge
+188,Year End Dealer Push,2030-12-01,2030-12-31,Economic,high,All,1.22,All,Dealers push targets — heavy discounting Dec
+189,School Start Season,2030-08-15,2030-09-15,Seasonal,medium,Individual,1.15,"Sedan,Van",Aug-Sep families buy practical cars for school run
+190,GCC Automotive Show,2030-03-10,2030-03-15,Industry,medium,All,1.2,All,Annual auto show drives showroom traffic
+191,Qatar Founding Day,2030-02-22,2030-02-22,National,medium,Qatari,1.15,SUV,"Feb 22 — National pride, moderate buying activity"
+192,Expat Salary Bonus Season,2030-12-20,2030-12-31,Economic,medium,Expat,1.18,"Sedan,Crossover",End of year bonuses — expat segment buys sedans/crossovers

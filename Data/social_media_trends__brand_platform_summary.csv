@@ -1,0 +1,57 @@
+brand,brand_tier,platform,avg_sentiment,avg_mentions,trending_wks,buy_more_wks,very_pos_pct,neg_pct
+BMW,luxury,Instagram,0.73,295.27,486,1395,77.04,0
+BMW,luxury,Reddit,0.73,163.08,429,1385,76.74,0
+BMW,luxury,Twitter_X,0.73,433.94,473,1365,77.31,0
+BMW,luxury,YouTube,0.74,233.35,459,1422,76.9,0
+Ford,mid,Instagram,0.59,220.27,234,244,49.03,0
+Ford,mid,Reddit,0.59,123.06,252,230,49.24,0
+Ford,mid,Twitter_X,0.59,326.71,284,255,50.86,0
+Ford,mid,YouTube,0.59,179.21,270,258,48.46,0
+Geely,budget_chinese,Instagram,0.42,104.36,162,5,8,0.11
+Geely,budget_chinese,Reddit,0.43,58.95,182,10,8.52,0
+Geely,budget_chinese,Twitter_X,0.43,155.95,197,8,8.31,0
+Geely,budget_chinese,YouTube,0.43,84.81,167,7,9.41,0
+Haval,budget_chinese,Instagram,0.45,122.79,154,10,11.67,0
+Haval,budget_chinese,Reddit,0.44,68.24,123,8,12.37,0
+Haval,budget_chinese,Twitter_X,0.44,179.82,132,15,12.07,0
+Haval,budget_chinese,YouTube,0.44,99.5,136,13,11.71,0
+Hyundai,mid,Instagram,0.6,215.39,342,381,52.97,0
+Hyundai,mid,Reddit,0.6,119.83,306,373,53.86,0
+Hyundai,mid,Twitter_X,0.6,317.48,329,386,51.8,0
+Hyundai,mid,YouTube,0.6,174.73,313,357,54.26,0
+Jetour,budget_chinese,Instagram,0.47,115.49,165,24,15.87,0
+Jetour,budget_chinese,Reddit,0.48,64.27,161,33,20.65,0
+Jetour,budget_chinese,Twitter_X,0.47,169.38,166,30,19.12,0
+Jetour,budget_chinese,YouTube,0.47,95.25,180,30,16.83,0
+Kia,mid,Instagram,0.59,228.37,264,223,48.1,0
+Kia,mid,Reddit,0.58,127.82,262,254,46.98,0
+Kia,mid,Twitter_X,0.58,333.7,239,248,48.71,0
+Kia,mid,YouTube,0.58,181.37,231,233,49.27,0
+Land Rover,luxury,Instagram,0.71,334.62,237,672,73.66,0
+Land Rover,luxury,Reddit,0.71,189.75,267,699,74.72,0
+Land Rover,luxury,Twitter_X,0.7,492.21,242,641,70.64,0
+Land Rover,luxury,YouTube,0.71,272.97,269,687,74.78,0
+Lexus,luxury,Instagram,0.75,306.66,275,882,78.68,0
+Lexus,luxury,Reddit,0.75,171.1,296,918,80.53,0
+Lexus,luxury,Twitter_X,0.76,453.42,295,921,80.01,0
+Lexus,luxury,YouTube,0.75,245.49,257,935,78.49,0
+Mitsubishi,mid,Instagram,0.56,233.78,222,140,39.33,0
+Mitsubishi,mid,Reddit,0.56,130.94,204,162,40.35,0
+Mitsubishi,mid,Twitter_X,0.56,346.14,209,151,39.67,0
+Mitsubishi,mid,YouTube,0.55,186.94,191,132,37.87,0
+Nissan,premium_mass,Instagram,0.61,497.17,297,372,56.3,0
+Nissan,premium_mass,Reddit,0.61,278.88,279,366,54.69,0
+Nissan,premium_mass,Twitter_X,0.61,727.74,291,370,54.66,0
+Nissan,premium_mass,YouTube,0.61,397.72,292,356,55.81,0
+Suzuki,budget_mass,Instagram,0.55,121.48,281,170,38.9,0
+Suzuki,budget_mass,Reddit,0.56,67.51,275,200,39.38,0
+Suzuki,budget_mass,Twitter_X,0.55,178.01,288,172,38.35,0
+Suzuki,budget_mass,YouTube,0.55,98.97,285,159,38.77,0
+TANK,budget_chinese,Instagram,0.49,139.8,106,30,25.44,0
+TANK,budget_chinese,Reddit,0.49,80.07,116,24,22.45,0
+TANK,budget_chinese,Twitter_X,0.49,208.8,106,34,21.68,0
+TANK,budget_chinese,YouTube,0.5,115.02,109,26,25.14,0
+Toyota,premium_mass,Instagram,0.69,568.42,365,897,71.4,0
+Toyota,premium_mass,Reddit,0.7,316.88,337,877,73.13,0
+Toyota,premium_mass,Twitter_X,0.7,840.3,335,886,74.37,0
+Toyota,premium_mass,YouTube,0.7,455.06,327,921,71.8,0

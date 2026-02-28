@@ -1,0 +1,100 @@
+brand,model,keyword_type,avg_sentiment,total_mentions,viral_platforms,action_flag
+Nissan,Patrol,pickup_search,0.858,2750,3,buy_more
+Toyota,Innova,model_mention,0.954,2500,3,buy_more
+Toyota,Prado,model_mention,0.936,2493,3,buy_more
+Toyota,RAV4,model_mention,0.825,2414,2,buy_more
+Land Rover,Range Rover,luxury_search,0.896,2410,3,buy_more
+Nissan,Altima,model_mention,0.785,2332,2,buy_more
+Toyota,Corolla,model_mention,0.955,2168,2,buy_more
+Nissan,Kicks,model_mention,0.893,2134,2,buy_more
+Lexus,LX,luxury_search,0.89,1921,3,buy_more
+Toyota,Fortuner,model_mention,0.832,1720,1,buy_more
+BMW,5 Series,model_mention,0.973,1677,2,buy_more
+Hyundai,Tucson,model_mention,0.786,1650,4,buy_more
+Toyota,Yaris,model_mention,0.958,1602,2,buy_more
+Land Rover,Range Rover Sport,luxury_search,0.859,1595,2,buy_more
+BMW,X5,model_mention,0.926,1593,1,buy_more
+BMW,X3,model_mention,0.925,1554,3,buy_more
+Nissan,Magnite,model_mention,0.761,1497,2,buy_more
+Nissan,X-Trail,model_mention,0.794,1445,0,buy_more
+Toyota,Camry,model_mention,1,1425,1,buy_more
+Lexus,ES,model_mention,1,1301,2,buy_more
+Land Rover,Discovery,model_mention,0.911,1223,3,buy_more
+Hyundai,Kona EV,future_demand,0.815,1134,3,buy_more
+Lexus,GX,luxury_search,0.975,1067,1,buy_more
+BMW,X1,model_mention,0.99,1031,2,buy_more
+Nissan,Pathfinder,model_mention,0.784,1029,1,price_review
+BMW,i4,future_demand,1,1026,2,buy_more
+Hyundai,Alcazar,model_mention,0.749,994,2,buy_more
+BMW,2 Series,model_mention,0.975,992,3,buy_more
+BMW,iX,future_demand,0.874,991,3,buy_more
+Ford,Mustang,model_mention,0.747,977,2,buy_more
+Ford,Ranger,pickup_search,0.665,971,1,price_review
+Land Rover,Defender,model_mention,0.954,966,1,buy_more
+Mitsubishi,Pajero Sport,model_mention,0.77,943,3,price_review
+Ford,Explorer,model_mention,0.774,922,1,price_review
+Hyundai,i20,model_mention,0.716,917,1,price_review
+BMW,3 Series,model_mention,0.93,902,1,buy_more
+Ford,Endeavour,model_mention,0.875,899,1,buy_more
+Kia,EV6,future_demand,0.818,892,2,buy_more
+Toyota,Land Cruiser,model_mention,0.902,860,0,buy_more
+Kia,Sonet,model_mention,0.756,857,2,buy_more
+Kia,Carens,model_mention,0.709,813,0,price_review
+Toyota,Hilux,pickup_search,0.871,797,1,buy_more
+Lexus,UX,model_mention,0.986,793,2,buy_more
+BMW,i7,future_demand,0.882,772,1,buy_more
+Lexus,RX,model_mention,1,767,0,buy_more
+BMW,X7,model_mention,0.941,750,1,buy_more
+Nissan,Sunny,model_mention,0.783,725,1,buy_more
+Hyundai,Aura,model_mention,0.757,717,2,price_review
+BMW,7 Series,luxury_search,0.814,712,1,buy_more
+Mitsubishi,L200,pickup_search,0.597,690,1,price_review
+Lexus,IS,model_mention,0.984,678,2,buy_more
+Suzuki,Brezza,model_mention,0.691,665,3,price_review
+Land Rover,Range Rover Evoque,model_mention,0.91,639,2,buy_more
+Hyundai,Verna,model_mention,0.735,624,0,buy_more
+Lexus,NX,model_mention,0.997,605,1,buy_more
+Jetour,X70 Plus,chinese_brand,0.665,598,3,price_review
+BMW,1 Series,model_mention,0.878,584,1,buy_more
+Haval,H6,chinese_brand,0.533,570,3,monitor
+Suzuki,Jimny,model_mention,0.76,569,1,buy_more
+Suzuki,Dzire,model_mention,0.71,567,3,buy_more
+Mitsubishi,Outlander,model_mention,0.726,561,2,buy_more
+Jetour,X90,chinese_brand,0.599,516,1,price_review
+Land Rover,Discovery Sport,model_mention,0.994,514,1,buy_more
+Hyundai,Creta,model_mention,0.636,512,0,price_review
+Kia,Sorento,model_mention,0.782,511,1,price_review
+Ford,Ecosport,model_mention,0.666,487,1,price_review
+Suzuki,Swift,model_mention,0.701,487,2,price_review
+Land Rover,Range Rover Velar,model_mention,0.753,485,0,buy_more
+Geely,Azkarra,chinese_brand,0.501,458,1,price_review
+Geely,Coolray,chinese_brand,0.544,456,1,price_review
+Mitsubishi,ASX,model_mention,0.749,424,1,buy_more
+Haval,H9,chinese_brand,0.622,414,1,price_review
+Jetour,Traveller,chinese_brand,0.648,413,0,price_review
+TANK,Tank 300,chinese_brand,0.639,387,1,price_review
+Hyundai,i10,model_mention,0.748,382,0,buy_more
+Nissan,Maxima,model_mention,0.804,377,1,buy_more
+Suzuki,Ertiga,model_mention,0.737,364,1,buy_more
+Ford,Figo,model_mention,0.78,350,2,buy_more
+Kia,Sportage,model_mention,0.693,346,0,price_review
+Suzuki,Alto,model_mention,0.738,336,2,buy_more
+Geely,Emgrand,chinese_brand,0.589,333,2,monitor
+Hyundai,Venue,model_mention,0.771,302,1,buy_more
+Geely,Tugella,chinese_brand,0.626,299,2,monitor
+Mitsubishi,Mirage,model_mention,0.894,292,0,buy_more
+Kia,Carnival,model_mention,0.767,292,0,buy_more
+Jetour,X70,chinese_brand,0.574,290,1,monitor
+TANK,Tank 700,chinese_brand,0.6,288,2,price_review
+Toyota,Urban Cruiser,model_mention,0.879,286,0,buy_more
+Mitsubishi,Pajero,model_mention,0.818,280,1,buy_more
+Haval,Jolion,chinese_brand,0.548,279,2,price_review
+Ford,Aspire,model_mention,0.762,272,0,buy_more
+Lexus,LS,luxury_search,1,235,0,buy_more
+Suzuki,Celerio,model_mention,0.71,227,0,price_review
+Kia,Seltos,model_mention,0.602,192,0,price_review
+TANK,Tank 500,chinese_brand,0.702,185,1,price_review
+BMW,Z4,model_mention,0.989,159,0,buy_more
+Geely,Geometry C,future_demand,0.384,104,1,monitor
+Haval,Dargo,chinese_brand,0.856,97,0,buy_more
+Jetour,Dasheng,chinese_brand,0.497,97,0,monitor
