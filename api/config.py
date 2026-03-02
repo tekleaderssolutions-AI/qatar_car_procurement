@@ -15,6 +15,7 @@ class Settings(BaseSettings):
     groq_api_key: str = ""
     sentry_dsn: str = ""
     environment: str = "local"
+    frontend_origin: str = "http://localhost:3000"
     debug: bool = False
 
     class Config:

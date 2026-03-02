@@ -8,6 +8,8 @@ import pandas as pd
 import numpy as np
 from pathlib import Path
 
+from sqlalchemy import text
+
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT))
 from db import get_engine
@@ -73,13 +75,7 @@ def compute_risk_score(row: dict, market_demand_score: int = 50, competitor_scor
     return int(risk), flag
 
 
-def score_inventory():
-    """Load inventory from DB, compute risk for each row, return DataFrame."""
-    try:
-        engine = get_engine()
-        df = pd.read_sql("SELECT * FROM vehicle_inventory", engine)
-    except Exception:
-        return pd.DataFrame()
+def _apply_scores(df: pd.DataFrame) -> pd.DataFrame:
     if df.empty:
         return df
     scores, flags = [], []
@@ -90,6 +86,66 @@ def score_inventory():
     df["risk_score"] = scores
     df["risk_flag"] = flags
     return df
+
+
+def score_inventory():
+    """Load full inventory from DB, compute risk for each row, return DataFrame."""
+    try:
+        engine = get_engine()
+        df = pd.read_sql("SELECT * FROM vehicle_inventory", engine)
+    except Exception:
+        return pd.DataFrame()
+    return _apply_scores(df)
+
+
+def score_inventory_filtered(
+    risk_flag: str | None = None,
+    body_type: str | None = None,
+    make: str | None = None,
+    color: str | None = None,
+    days_min: int | None = None,
+    days_max: int | None = None,
+):
+    """
+    Load filtered inventory from DB using SQL WHERE clauses, then compute risk.
+    This avoids loading the entire table into memory for dashboard filters.
+    """
+    try:
+        engine = get_engine()
+    except Exception:
+        return pd.DataFrame()
+
+    base = "SELECT * FROM vehicle_inventory WHERE 1=1"
+    clauses: list[str] = []
+    params: dict[str, object] = {}
+
+    if risk_flag:
+        clauses.append(" AND risk_flag = :risk_flag")
+        params["risk_flag"] = risk_flag
+    if body_type:
+        clauses.append(" AND body_type ILIKE :body_type")
+        params["body_type"] = f"%{body_type}%"
+    if make:
+        clauses.append(" AND make ILIKE :make")
+        params["make"] = f"%{make}%"
+    if color:
+        clauses.append(" AND color_exterior ILIKE :color")
+        params["color"] = f"%{color}%"
+    if days_min is not None:
+        clauses.append(" AND days_in_stock >= :days_min")
+        params["days_min"] = days_min
+    if days_max is not None:
+        clauses.append(" AND days_in_stock <= :days_max")
+        params["days_max"] = days_max
+
+    query = text(base + "".join(clauses))
+    try:
+        engine = get_engine()
+        df = pd.read_sql(query, engine, params=params)
+    except Exception:
+        # Fallback to unfiltered computation if SQL or column mismatch occurs
+        return score_inventory()
+    return _apply_scores(df)
 
 
 def get_risk_summary():

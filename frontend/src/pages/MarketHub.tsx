@@ -55,7 +55,7 @@ export default function MarketHub() {
     <div>
       <div className="page-header" style={{ marginBottom: 20 }}>
         <div style={{ fontSize: 24, fontWeight: 900, color: 'var(--gold)', marginBottom: 3 }}>Market Intelligence Hub</div>
-        <div style={{ fontSize: 12, color: 'var(--muted)' }}>Real-time Qatar used car market overview · February 2026</div>
+        <div style={{ fontSize: 12, color: 'var(--muted)' }}>Real-time Qatar used car market overview</div>
       </div>
 
       <div style={{ display: 'grid', gridTemplateColumns: 'repeat(6, 1fr)', gap: 12, marginBottom: 18 }}>
@@ -97,7 +97,7 @@ export default function MarketHub() {
           </div>
         </div>
         <div className="card">
-          <div style={{ fontWeight: 700, fontSize: 13, marginBottom: 14 }}>Top Models — Days to Sell</div>
+          <div style={{ fontWeight: 700, fontSize: 13, marginBottom: 14 }}>Top Models</div>
           <div style={{ height: 220 }}>
             <ResponsiveContainer width="100%" height="100%">
               <BarChart data={topModels} layout="vertical" margin={{ left: 8, right: 8 }}>
@@ -135,10 +135,10 @@ export default function MarketHub() {
         </div>
         <div className="card" style={{ border: '1px solid var(--border)', borderRadius: 13, padding: 16 }}>
           <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: 10 }}>
-            <span style={{ fontSize: 13, fontWeight: 700 }}>👥 Expat Signal</span>
+            <span style={{ fontSize: 13, fontWeight: 700 }}>👥 Expected Signal</span>
             <span style={{ fontSize: 10, fontWeight: 700, background: 'rgba(59,130,246,0.15)', color: 'var(--blue)', padding: '3px 10px', borderRadius: 6 }}>RETURNING</span>
           </div>
-          <div style={{ fontSize: 20, fontWeight: 900, color: 'var(--blue)', marginBottom: 8 }}>2.9M expats</div>
+          <div style={{ fontSize: 20, fontWeight: 900, color: 'var(--blue)', marginBottom: 8 }}>2.9M</div>
           <div style={{ fontSize: 11, color: 'var(--dim)', lineHeight: 1.6 }}>Sept–Oct return season. Supply tightening. Best time to raise prices by 5–8%.</div>
         </div>
       </div>

@@ -12,6 +12,7 @@ def ensure_indexes() -> None:
         "CREATE INDEX IF NOT EXISTS idx_vehicle_inventory_year ON vehicle_inventory(year)",
         "CREATE INDEX IF NOT EXISTS idx_vehicle_inventory_risk_flag ON vehicle_inventory(risk_flag)",
         "CREATE INDEX IF NOT EXISTS idx_customers_customer_id ON customers(customer_id)",
+        "CREATE INDEX IF NOT EXISTS idx_customers_next_upgrade_prediction ON customers(next_upgrade_prediction)",
     ]
     with engine.begin() as conn:
         for stmt in stmts:

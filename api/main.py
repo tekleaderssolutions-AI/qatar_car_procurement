@@ -49,6 +49,8 @@ async def lifespan(app: FastAPI):
     scheduler.shutdown(wait=False)
 
 
+settings = get_settings()
+
 app = FastAPI(
     title="Qatar AI Platform API",
     description="Used car market intelligence: pricing, inventory risk, demand, buyer matching, AI chat",
@@ -58,7 +60,7 @@ app = FastAPI(
 app.state.limiter = limiter
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
+    allow_origins=[settings.frontend_origin],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
