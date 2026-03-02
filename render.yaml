@@ -1,3 +1,5 @@
+# Qatar AI Platform — Render Blueprint
+
 services:
   - type: web
     name: qatar-api
@@ -23,10 +25,11 @@ services:
       - key: GROQ_API_KEY
         sync: false
 
-  - type: static_site
+  - type: web
     name: qatar-frontend
+    runtime: static
     buildCommand: cd frontend && npm install && npm run build
-    publishPath: frontend/dist
+    staticPublishPath: frontend/dist
     autoDeploy: true
     envVars:
       - key: VITE_API_URL
